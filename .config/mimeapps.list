@@ -1,0 +1,33 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Midori-CA36A3.desktop
+x-scheme-handler/https=userapp-Midori-CA36A3.desktop
+x-scheme-handler/chrome=userapp-Midori-CA36A3.desktop
+text/html=userapp-Midori-CA36A3.desktop
+application/x-extension-htm=userapp-Midori-CA36A3.desktop
+application/x-extension-html=userapp-Midori-CA36A3.desktop
+application/x-extension-shtml=userapp-Midori-CA36A3.desktop
+application/xhtml+xml=userapp-Midori-CA36A3.desktop
+application/x-extension-xhtml=userapp-Midori-CA36A3.desktop
+application/x-extension-xht=userapp-Midori-CA36A3.desktop
+application/pdf=org.pwmt.zathura.desktop
+application/vnd.efi.img=bvnc.desktop
+application/octet-stream=vim.desktop
+x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Midori-CA36A3.desktop;
+x-scheme-handler/https=userapp-Midori-CA36A3.desktop;
+x-scheme-handler/chrome=userapp-Midori-CA36A3.desktop;
+text/html=vim.desktop;vieb.desktop;userapp-Midori-CA36A3.desktop;
+application/x-extension-htm=userapp-Midori-CA36A3.desktop;
+application/x-extension-html=userapp-Midori-CA36A3.desktop;
+application/x-extension-shtml=userapp-Midori-CA36A3.desktop;
+application/xhtml+xml=userapp-Midori-CA36A3.desktop;
+application/x-extension-xhtml=userapp-Midori-CA36A3.desktop;
+application/x-extension-xht=userapp-Midori-CA36A3.desktop;
+image/jpeg=sxiv.desktop;
+application/pdf=librewolf.desktop;firefox.desktop;org.pwmt.zathura.desktop;
+application/vnd.efi.img=bvnc.desktop;
+application/octet-stream=vim.desktop;
+text/plain=vim.desktop;
+application/x-tilp-application=tilp.desktop;
